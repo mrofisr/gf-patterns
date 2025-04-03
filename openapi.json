@@ -1,0 +1,1 @@
+{ "flags": "-HanrE", "pattern": "([^A-Za-z0-9]|^)(sk-[A-Za-z0-9]{32,})" }

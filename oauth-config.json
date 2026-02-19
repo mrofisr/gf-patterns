@@ -1,0 +1,10 @@
+{
+    "flags": "-HanrE",
+    "patterns": [
+        "client_id[\"']?\\s*[:=]\\s*[\"']?[a-zA-Z0-9\\-_]+",
+        "client_secret[\"']?\\s*[:=]\\s*[\"']?[a-zA-Z0-9\\-_]+",
+        "redirect_uri[\"']?\\s*[:=]\\s*[\"']?https?://[^\"'\\s]+",
+        "oauth_token[\"']?\\s*[:=]\\s*[\"']?[a-zA-Z0-9\\-_]+",
+        "access_token[\"']?\\s*[:=]\\s*[\"']?[a-zA-Z0-9\\-_]+"
+    ]
+}

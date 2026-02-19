@@ -1,0 +1,12 @@
+{
+    "flags": "-hrioaE",
+    "patterns": [
+        "[a-z0-9.-]+\\.cloudfront\\.net",
+        "[a-z0-9.-]+\\.elasticbeanstalk\\.com",
+        "[a-z0-9.-]+\\.compute\\.amazonaws\\.com",
+        "[a-z0-9.-]+\\.rds\\.amazonaws\\.com",
+        "[a-z0-9]{3,24}\\.blob\\.core\\.windows\\.net",
+        "[a-z0-9.-]+\\.digitaloceanspaces\\.com",
+        "[a-z0-9.-]+\\.storage\\.googleapis\\.com"
+    ]
+}

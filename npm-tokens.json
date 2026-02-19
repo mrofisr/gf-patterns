@@ -1,0 +1,4 @@
+{
+    "flags": "-HanrEo",
+    "pattern": "npm_[A-Za-z0-9]{36}"
+}

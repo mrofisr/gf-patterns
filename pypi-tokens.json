@@ -1,0 +1,4 @@
+{
+    "flags": "-HanrEo",
+    "pattern": "pypi-AgEIcHlwaS5vcmc[A-Za-z0-9-_]{50,100}"
+}

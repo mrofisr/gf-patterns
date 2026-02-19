@@ -1,0 +1,4 @@
+{
+    "flags": "-HanrEo",
+    "pattern": "https://discord\\.com/api/webhooks/[0-9]{18}/[A-Za-z0-9_-]{68}"
+}

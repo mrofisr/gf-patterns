@@ -1,0 +1,15 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "/\\.next/",
+        "/__nextjs/",
+        "/_nuxt/",
+        "/build/",
+        "/dist/",
+        "/node_modules/",
+        "package-lock\\.json",
+        "yarn\\.lock",
+        "composer\\.lock",
+        "Gemfile\\.lock"
+    ]
+}

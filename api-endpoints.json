@@ -1,0 +1,13 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "/api/v[0-9]+/",
+        "/graphql",
+        "/rest/v[0-9]+/",
+        "/swagger\\.json",
+        "/openapi\\.json",
+        "/api-docs",
+        "/redoc",
+        "/graphiql"
+    ]
+}

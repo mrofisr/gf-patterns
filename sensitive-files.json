@@ -1,0 +1,16 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "\\.env(?!(\\.example|\\.sample|\\.template))",
+        "\\.git/config",
+        "\\.svn/entries",
+        "web\\.config",
+        "wp-config\\.php",
+        "settings\\.php(?!\\.dist)",
+        "configuration\\.php",
+        "\\.htpasswd",
+        "credentials\\.json",
+        "service-account\\.json",
+        "client_secret\\.json"
+    ]
+}

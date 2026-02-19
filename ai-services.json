@@ -1,0 +1,11 @@
+{
+    "flags": "-HanrEo",
+    "patterns": [
+        "sk-[a-zA-Z0-9]{48}",
+        "sk-ant-[a-zA-Z0-9\\-_]{80,}",
+        "hf_[a-zA-Z0-9]{34}",
+        "r8_[a-zA-Z0-9]{22,}",
+        "sk-[a-zA-Z0-9]{20}T3BlbkFJ[a-zA-Z0-9]{20}",
+        "xai-[a-zA-Z0-9]{32,}"
+    ]
+}
